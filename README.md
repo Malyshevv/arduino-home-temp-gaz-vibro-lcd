@@ -7,7 +7,7 @@
 - SW420
 - BMP280
 
-Использованные бибилотеки 
+Использованные библиотеки 
 
 - GyverOLED.h (https://github.com/GyverLibs/GyverOLED)
 - Wire.h
